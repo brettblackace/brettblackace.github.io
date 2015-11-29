@@ -2,8 +2,9 @@
 published: true
 ---
 
+
     ---
-    layout: default
+    layout: posts
     category : one
     tags : [how-to, jekyll]
     ---
