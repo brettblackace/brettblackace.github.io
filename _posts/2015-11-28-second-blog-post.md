@@ -2,14 +2,11 @@
 published: true
 ---
 
+---
+layout: post
+title: Blogging Like a Hacker
+---
 
----
-layout: posts
-category : one
-tags : [how-to, jekyll]
----
-... contents ...
-    
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
